@@ -1,0 +1,23 @@
+{
+  "name": "vue_example",
+  "version": "1.0.0",
+  "description": "an example for vue usage",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "cnwarden",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.0.0",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "request": "^2.73.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
